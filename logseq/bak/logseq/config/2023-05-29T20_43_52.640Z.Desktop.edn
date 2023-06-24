@@ -292,7 +292,7 @@
  ;;  :journal?        false} ; Default value: false
 
  ;; Favorites to list on the left sidebar
- :favorites ["Contents" "图谱简介"]
+ :favorites []
 
  ;; Set flashcards interval.
  ;; Expected value:
@@ -413,4 +413,4 @@
  ;;      ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :ui/show-brackets? true
- :graph/settings {:builtin-pages? true}}
+ :graph/settings {:builtin-pages? false}}
