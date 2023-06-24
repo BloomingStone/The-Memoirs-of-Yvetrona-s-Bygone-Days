@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Stone\\files\\TeachSelf\\smart_knob\\smartknob-master"
+		},
+		{
+			"name": "smartknob-master",
+			"path": "C:\\Users\\15922\\Desktop\\smartknob-master\\smartknob-master"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"queue": "cpp"
+		}
+	}
+}
